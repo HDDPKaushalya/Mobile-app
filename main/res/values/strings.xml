@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">store3</string>
+    <string name="Monthly">Monthly Discounts</string>
+    <string name="Female">Female Cloths</string>
+    <string name="Modano">Modano</string>
+    <string name="picture">about pictures</string>
+    <string name="number">Rs 2,290.00</string>
+    <string name="deps">Modano Women\'s Sleeve Less Casual Top</string>
+    <string name="nyun">Nerfiti</string>
+    <string name="butto">See more...</string>
+    <string name="male">Male Cloths</string>
+    <string name="colors">Colors</string>
+    <string name="Sizes">Sizes</string>
+    <string name="Price">Price</string>
+    <string name="quanty">Quantity</string>
+    <string name="Addcart">Add To The Cart</string>
+    <string name="val">Enter The Quntity</string>
+    <string name="BestD">Monthly Best Discounts</string>
+    <string name="mensdis">Men Cloths Discounts</string>
+    <string name="womendis">Women Cloths Discount</string>
+    <string name="Items">Itme Name</string>
+    <string name="Quantit">Quantity</string>
+    <string name="Pr3">Price</string>
+</resources>
